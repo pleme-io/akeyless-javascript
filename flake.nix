@@ -14,7 +14,7 @@
         pname = "akeyless";
         version = "0.0.0-dev";
         src = self;
-        npmDepsHash = "sha256-k+UC7jc6JqKWTskVgs4cXe1o11fy1WxcCov1LAG+UUo="; # TODO: set correct hash
+        npmDepsHash = "sha256-k+UC7jc6JqKWTskVgs4cXe1o11fy1WxcCov1LAG+UUo=";
         dontNpmBuild = false;
         npmBuildScript = "build";
         meta = {
